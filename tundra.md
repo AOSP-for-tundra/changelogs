@@ -1,8 +1,11 @@
-# Changelog - April 20, 2025:
+# Changelog - June 03, 2025:
 ## Source:
+- Merged May security patch
+- Rebased source over LineageOS, a clean flash is recommended
 
 ## Device:
-- Fixed adaptive refreshrate (credits to Hotaro)
+- Merged the latest changes from Lineage 
 
 ## Kernel:
-- Added KSU-Next and susfs support by default
+* KSU-Next and susfs support by default
+- Upstreamed to 5.4.292 and merged the latest changes from Lineage
