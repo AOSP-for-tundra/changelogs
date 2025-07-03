@@ -1,11 +1,16 @@
-# Changelog - June 03, 2025:
+# Changelog - July 03, 2025:
 ## Source:
-- Merged May security patch
-- Rebased source over LineageOS, a clean flash is recommended
+- Merged June security patch
+- Miscellaneous changes for spoofing play integrity
 
 ## Device:
-- Merged the latest changes from Lineage 
+- Merged the latest changes from LineageOS
 
 ## Kernel:
 * KSU-Next and susfs support by default
-- Upstreamed to 5.4.292 and merged the latest changes from Lineage
+- Initial "void" kernel for tundra
+- Improved performance
+- Improved idle drain
+- Undervolted GPU
+- Improved memory management
+- Added Wireguard support
